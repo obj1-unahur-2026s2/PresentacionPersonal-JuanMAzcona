@@ -4,10 +4,13 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombe es Juan Manuel Azcona
+- Vivo en La Matanza
+- Tengo 20 años
 
 
-### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+### Sobre Mí
+- Este es mi primer contacto con github, así que tengo grandes expectativas de aprendizaje con esta herramienta.
+- Llevo 1 año y medio en la Licenciatura en Informática.
+- Me apasionan la programación y las redes informáticas.
+- Mis hobbies involucran leer, jugar videojuegos y aprender sobre filosofía.
